@@ -1,0 +1,47 @@
+
+.header{
+    display:flex ;
+    justify-content:flex-start;
+    align-items: center;
+    height: 90px;
+    width: 100%;
+    background-color: blanchedalmond;
+}
+.container{
+    width: 100%;
+    height: auto;
+    
+}
+.header img{
+    width: 75px;
+    height: 75px;
+}
+.img{
+    padding-top: 10px;
+    width: 100%;
+    height: 100px;
+    background-image: url(x.png);
+    background-size:90px;
+    background-repeat: repeat-x;
+}
+.header h1{
+    color: brown;
+    padding-left: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
+h2{
+    font-size: larger;
+    background-color: beige;
+    color: crimson; 
+}
+p{
+ background-color: aliceblue;
+}
+p a{
+    text-decoration: none;
+}
+.last{
+    text-align: center;
+    background-color: aqua;
+    color: black;
+}
